@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "moduleResolution": "node"
+  },
+  "files": [
+    "src/index.ts",
+    "src/Tween.ts",
+    "src/Easing.ts",
+    "src/Permutation.ts",
+    "src/Config/CommonConfig.ts",
+    "src/Config/AlgorithmPlayerConfig.ts",
+    "src/Player/AlgorithmPlayer.ts",
+    "src/3D/Cube3D.ts",
+    "src/3D/Twisty3D.ts"
+  ]
+}
